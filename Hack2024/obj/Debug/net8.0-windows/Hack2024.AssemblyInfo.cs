@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hack2024")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+000ece0e4a9ae4b29b636ca835f6e8e5326d81a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a03a7921f3ff0a0cabf443d8ad5923b3d946dbf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hack2024")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hack2024")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
